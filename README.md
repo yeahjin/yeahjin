@@ -12,7 +12,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im_agination)](https://solved.ac/im_agination/)
 
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin&show_icons=true&theme=radical)
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yeahjin&theme=vue&show_icons=true"/></a>
+</p>
 
 <!--
 Here are some ideas to get you started:
