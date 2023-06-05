@@ -9,13 +9,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yeahjin/github-readme-stats)
-[![Yejin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahjin&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeahjin&repo=https://github.com/pcjs156/LionStore)](https://github.com/pcjs156/LionStore)
 <!--
-**yeahjin/yeahjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
