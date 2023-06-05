@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-<p align="center"> 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im_agination)](https://solved.ac/im_agination/)
-</p>
 
 <!--
 Here are some ideas to get you started:
