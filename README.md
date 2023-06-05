@@ -1,7 +1,8 @@
 ## Hi I'm Yejin! 🐥
 
+<center>
 ### My technical Stack
-<div style="display:flex; flex-direction:row; align:center;">
+<div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> 
@@ -17,6 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yeahjin&theme=vue&show_icons=true"/></a>
 </p>
 
+</center>
 <!--
 Here are some ideas to get you started:
 
