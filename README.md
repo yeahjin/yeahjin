@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=#02569B"/>
 <!--
 **yeahjin/yeahjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
