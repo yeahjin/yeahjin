@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im_agination)](https://solved.ac/im_agination/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im_agination)](https://solved.ac/im_agination/)
 
 <!--
 Here are some ideas to get you started:
