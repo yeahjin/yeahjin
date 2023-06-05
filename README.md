@@ -1,7 +1,7 @@
 ## Hi I'm Yejin! 🐥
 
 ### My technical Stack
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; align:center;">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> 
