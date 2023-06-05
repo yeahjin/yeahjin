@@ -1,6 +1,6 @@
+<div align="center">
 ## Hi I'm Yejin! 🐥
 
-<p align="center"> 
 ### My technical Stack
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -17,9 +17,8 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yeahjin&theme=vue&show_icons=true"/></a>
 </p>
-</p>
 
-</center>
+</
 <!--
 Here are some ideas to get you started:
 
