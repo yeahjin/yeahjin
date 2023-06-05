@@ -10,7 +10,7 @@
 </div>
 
 <p align="center"> 
-[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin)](https://github.com/anuraghazra/github-readme-stats)
+[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin)](https://github.com/yeahjin/github-readme-stats)
 </p>
 
 <!--
