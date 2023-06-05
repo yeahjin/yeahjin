@@ -1,10 +1,11 @@
 ### Hi I'm Yejin! 🐥
 
-## My technical Stack
+# My technical Stack
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> 
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 <!--
 **yeahjin/yeahjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
