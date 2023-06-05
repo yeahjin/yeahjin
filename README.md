@@ -8,9 +8,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
-<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im_agination)](https://solved.ac/im_agination/)
-  <br>
   ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjin&show_icons=true&theme=radical)
 
 <!--
