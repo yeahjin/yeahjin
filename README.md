@@ -1,6 +1,6 @@
-### Hi I'm Yejin! 🐥
+## Hi I'm Yejin! 🐥
 
-# My technical Stack
+### My technical Stack
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> 
