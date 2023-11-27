@@ -1,6 +1,7 @@
 <div align="center">
   
 ## Hi I'm Yejin! 🐥
+I'm studying to be a backend developer.
 
 ### ⚡My technical Stack⚡
 <div style="display:flex; flex-direction:row;">
