@@ -19,6 +19,7 @@
   
 ### 📚Edu
 Kookmin Univ. Computer Science (2018.03-2023.08)
+<br>
 SSAFY 10th (2023.07-now)
 
 <br>
