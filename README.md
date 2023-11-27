@@ -17,9 +17,8 @@
 <br>
 <br>
   
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yeahjin&theme=vue&show_icons=true"/></a>
-</p>
+### 📚Edu
+* Kookmin Univ. Computer Science (2018.03-2023.08)
 
 <br>
 <br>
