@@ -20,9 +20,11 @@ I'm studying to be a backend developer.
 <br>
   
 ### 📚Edu
-Kookmin Univ. Computer Science (2018.03-2023.08)
+Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
-SSAFY 10th (2023.07-now)
+Kempten University of Applied Sciences | exchange student (2022.09-2023.02)
+<br>
+Samsung Software Academy For Youth 10th (2023.07-now)
 
 <br>
 <br>
