@@ -24,7 +24,7 @@ Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
 Kempten University of Applied Sciences | exchange student (2022.09-2023.02)
 <br>
-Samsung Software Academy For Youth 10th (2023.07-now)
+Samsung Software Academy For Youth 10th (2023.07-2024.06)
 
 <br>
 <br>
