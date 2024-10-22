@@ -38,7 +38,7 @@ SeSAC Cloud Architect course with AWS (2024.09-now)
 
 
 
-##### If you want to read my portfolio ↪️ [click here 💬](https://chlonia.notion.site/Yejin-1278b034231880788090f307f0446e36)
+##### If you want to read my portfolio ↪️ [click here](https://chlonia.notion.site/Yejin-1278b034231880788090f307f0446e36)
 <!--
 Here are some ideas to get you started:
 
