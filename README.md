@@ -19,7 +19,7 @@ I'm studying to be a backend developer.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white">
 <h4 style="margin-top: 2px; margin-bottom: 2px;">Tools</h4>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=git&logoColor=white">
 </div>
 
 <br>
