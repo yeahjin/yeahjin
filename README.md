@@ -20,6 +20,7 @@ I'm studying to be a backend developer.
 <h4 style="margin-top: 2px; margin-bottom: 2px;">Tools</h4>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
 
 <br>
