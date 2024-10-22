@@ -16,10 +16,10 @@ I'm studying to be a backend developer.
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> 
 <h4 style="margin-top: 2px; margin-bottom: 2px;">Database</h4>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 <h4 style="margin-top: 2px; margin-bottom: 2px;">Tools</h4>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white">
 </div>
 
 <br>
