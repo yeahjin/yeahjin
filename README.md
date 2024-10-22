@@ -30,8 +30,6 @@ I'm studying to be a backend developer.
 ### 📚Edu
 Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
-Kempten University of Applied Sciences | exchange student (2022.09-2023.02)
-<br>
 Samsung Software Academy For Youth 10th (2023.07-2024.06)
 <br>
 SeSAC Cloud Architect course with AWS (2024.09-now)
