@@ -2,8 +2,7 @@
   
 ## Hi I'm Yejin! 🐥
 I'm studying to be a backend developer.
-
-Now I'm studying cloud system too.
+<br>Now I'm studying cloud system too.
 
 ### ⚡My technical Stack⚡
 <div style="display:flex; flex-direction:row;">
