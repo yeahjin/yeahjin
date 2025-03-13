@@ -32,7 +32,7 @@ Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
 Samsung Software Academy For Youth 10th (2023.07-2024.06)
 <br>
-SeSAC Cloud Architect course with AWS (2024.09-now)
+SeSAC Cloud Architect course with AWS (2024.09-2025.02)
 <br>
 <br>
 
