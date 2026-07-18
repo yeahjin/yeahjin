@@ -4,14 +4,15 @@
 Pursuing the balance between user experience and practical engineering.
 <br>
 Working toward that, one step at a time.
-
 <br>
+Currently learning Infrastructure, Networking.
+
 <br>
   
 ### 📚Edu
 Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
-Samsung Software Academy For Youth 10th (2023.07-2024.06)
+Samsung Software Academy For Youth 10th | JAVA Track (2023.07-2024.06)
 <br>
 SeSAC Cloud Architect course with AWS (2024.09-2025.02)
 <br>
