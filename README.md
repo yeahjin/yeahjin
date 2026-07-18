@@ -2,6 +2,7 @@
   
 ## Hi I'm Yejin! 🐥
 Pursuing the balance between user experience and practical engineering.
+<br>
 Working toward that, one step at a time.
 
 <br>
