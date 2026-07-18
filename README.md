@@ -8,7 +8,6 @@ Working toward that, one step at a time.
 Currently learning Infrastructure, Networking.
 
 <br>
-  
 ### 📚Edu
 Kookmin Univ. Computer Science | bachelor (2018.03-2023.08)
 <br>
